@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tabla{
+    border-collapse: collapse ;
+}
+thead tr, th{
+    border: 1px solid violet;
+    background-color: blanchedalmond;
+}
+tbody{
+    border: 1px solid violet;
+    background-color: blanchedalmond;
+
+}
+tfooter{
+    border: 1px solid violet;
+    background-color: blanchedalmond;
+}
